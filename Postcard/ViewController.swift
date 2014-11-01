@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    //Testing our GITHUB commit function
     
     @IBOutlet weak var messageLabel: UILabel!
     @IBOutlet weak var enterNameTextField: UITextField!
